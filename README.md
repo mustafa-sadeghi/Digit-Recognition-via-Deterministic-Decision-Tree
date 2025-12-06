@@ -36,7 +36,7 @@ The final output includes annotated bounding boxes.
 │   ├── overview/
 │   └── rois/
 └── MV5_Sadeghi.pdf         # Full project documentation
----
+```
 
 ## How It Works
 1. Convert image to grayscale  
@@ -52,10 +52,10 @@ The final output includes annotated bounding boxes.
 ## Installation
 ```bash
 pip install opencv-python numpy matplotlib
-
-##Run the Project
+```
+## Run the Project
 python main.py
 
-##Documentation
+## Documentation
 Full algorithm description, design rationale, and parameter tables are available in:
 MV5_Sadeghi.pdf
