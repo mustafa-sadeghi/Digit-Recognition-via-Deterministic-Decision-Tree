@@ -54,7 +54,9 @@ The final output includes annotated bounding boxes.
 pip install opencv-python numpy matplotlib
 ```
 ## Run the Project
+```bash
 python main.py
+```
 
 ## Documentation
 Full algorithm description, design rationale, and parameter tables are available in:
